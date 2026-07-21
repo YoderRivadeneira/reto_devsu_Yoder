@@ -1,0 +1,4 @@
+rootProject.name = 'reto-devsu-yoder'
+
+include 'ejercicio1E2E'
+include 'ejercicio2Karate'
