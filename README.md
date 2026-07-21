@@ -35,7 +35,7 @@ reto_devsu_Yoder/
 
 #### Plus: DevOps CI/CD con GitHub Actions
 
-Jobs paralelos e individuales para esta solucion de automatizacion:
+Jobs paralelos e individuales para poder ejecutar ambas soluciones en cloud con los runners de git:
 
 <img width="1354" height="509" alt="image" src="https://github.com/user-attachments/assets/f12652e2-8b93-44bc-9dd1-5ddc84632fd6" />
 
