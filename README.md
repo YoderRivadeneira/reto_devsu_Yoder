@@ -28,8 +28,8 @@ reto_devsu_Yoder/
 
 | Job | Comando | Framework |
 |-----|---------|-----------|
-| `e2e-tests` | `./gradlew :ejercicio1E2E:test` | Serenity / Cucumber |
-| `api-tests` | `./gradlew :ejercicio2Karate:test` | Karate |
+| `e2e-tests` | `./gradlew :ejercicio1E2E:test` | Serenity + Screenplay / Cucumber / java |
+| `api-tests` | `./gradlew :ejercicio2Karate:test` | Karate / java|
 
 ---
 
@@ -46,5 +46,14 @@ Jobs paralelos e individuales para esta solucion de automatizacion:
 <img width="1312" height="591" alt="image" src="https://github.com/user-attachments/assets/2b4fb59f-9f2e-42d7-a123-bc2c08bb0383" />
 
 <img width="1248" height="607" alt="image" src="https://github.com/user-attachments/assets/f8400b60-300a-4fcd-a853-3ae99e82c497" />
+
+
+# Nota:
+
+También se puede revisar ambos proyectos totalmente por separado en repositorios independientes en caso de querer profundizar en los workflows para el CI / CD:
+
+- E2E: https://github.com/YoderRivadeneira/ejercicio1E2E
+- API: https://github.com/YoderRivadeneira/ejercicio2Karate
+
 
 
